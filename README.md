@@ -8,7 +8,7 @@
 2. [面向事件密集型文本-图像的跨模态检索方法研究](https://github.com/WUT-IDEA/food-computing/blob/main/papers/%E8%B0%A2%E5%BF%A0%E4%BC%9F_%E5%8D%9A%E5%A3%AB%E8%AE%BA%E6%96%87-%E4%BA%8B%E4%BB%B6%E5%AF%86%E9%9B%86%E5%9E%8B%E5%9B%BE%E6%96%87%E6%A3%80%E7%B4%A2.pdf) @ 谢忠伟 2022年博士论文
 
 ## 学术报告
-1. [多模态机器学习-跨模态图文检索](https://github.com/WUT-IDEA/food-computing/blob/main/academic%20report/%E4%BA%8B%E4%BB%B6%E5%AF%86%E9%9B%86%E5%9E%8B%E5%9B%BE%E6%96%87%E8%B7%A8%E6%A8%A1%E6%80%81%E6%A3%80%E7%B4%A22023Github_ppt.pdf) @ 2023年4月22日武汉
+1. [多模态机器学习-跨模态图文检索](https://github.com/WUT-IDEA/food-computing/blob/main/academic%20report/%E4%BA%8B%E4%BB%B6%E5%AF%86%E9%9B%86%E5%9E%8B%E5%9B%BE%E6%96%87%E8%B7%A8%E6%A8%A1%E6%80%81%E6%A3%80%E7%B4%A22023Github_ppt.pdf) @ 2023年4月22日 武汉
 
 ## 其它信息
 Meal推荐数据及代码：https://wut-idea.github.io/DASFAA2023.github.io/
